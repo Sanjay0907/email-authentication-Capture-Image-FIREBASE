@@ -1,6 +1,13 @@
-# resolute_ai_assignment
+# Email Authentication and Capture Image
 
-A new Flutter project.
+
+## App Overview
+
+
+
+https://user-images.githubusercontent.com/90062803/170640022-3846b0d7-f9c3-4830-a16f-66676acfb10f.mp4
+
+
 
 ## Getting Started
 
